@@ -1,6 +1,6 @@
 # go-utils
 
-[![Build Status](https://github.com/PRJCT8/go-utils/actions/workflows/go.yml/badge.svg)](https://github.com/PRJCT8/go-utils/actions)
+[![Build Status](https://github.com/PRJCT8/go-utils/actions/workflows/go.yaml/badge.svg)](https://github.com/PRJCT8/go-utils/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/PRJCT8/go-utils)](https://goreportcard.com/report/github.com/PRJCT8/go-utils)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/PRJCT8/go-utils)](https://pkg.go.dev/github.com/PRJCT8/go-utils)
 
